@@ -149,3 +149,8 @@ QuadB Tech HR: hr@quadbtech.com
 ---
 
 **Note**: This is a simulation for educational purposes. Not intended for production cryptocurrency implementation.
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-BlockChain/count.svg" />
+</p>
